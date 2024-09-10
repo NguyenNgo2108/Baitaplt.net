@@ -1,0 +1,7 @@
+C:\Users\nemol\source\repos\BaiTap\BaiTap\obj\Debug\BaiTap.csproj.AssemblyReference.cache
+C:\Users\nemol\source\repos\BaiTap\BaiTap\obj\Debug\BaiTap.csproj.CoreCompileInputs.cache
+C:\Users\nemol\source\repos\BaiTap\BaiTap\bin\Debug\BaiTap.exe.config
+C:\Users\nemol\source\repos\BaiTap\BaiTap\bin\Debug\BaiTap.exe
+C:\Users\nemol\source\repos\BaiTap\BaiTap\bin\Debug\BaiTap.pdb
+C:\Users\nemol\source\repos\BaiTap\BaiTap\obj\Debug\BaiTap.exe
+C:\Users\nemol\source\repos\BaiTap\BaiTap\obj\Debug\BaiTap.pdb
