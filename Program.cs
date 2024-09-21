@@ -29,8 +29,10 @@ namespace BaiTap
             //Bai6.Main(args);
 
             // Chạy bài 7
-            Bai7.Main(args);
+            //Bai7.Main(args);
 
+            // Chạy bài thực hành 21/09
+            BaiTap2109.Main(args);
 
         }
     }

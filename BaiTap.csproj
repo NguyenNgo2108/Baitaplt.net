@@ -53,7 +53,7 @@
     <Compile Include="Bai5.cs" />
     <Compile Include="Bai6.cs" />
     <Compile Include="Bai7.cs" />
-    <Compile Include="Interface1.cs" />
+    <Compile Include="BaiTap2109.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
